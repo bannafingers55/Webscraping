@@ -66,6 +66,7 @@ def generateSequentialUrls(baseURL, lowerLimit = 0, upperLimit, writeToFile = Fa
 		print("The file can be found at\n" + baseURL + ".list")
 		
 	return urlList
+#More will be added, this is just my lazy way to reuse code
 
 
 
